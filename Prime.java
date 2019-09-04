@@ -15,11 +15,11 @@ public class Prime
     }
     if(count>0)
     {
-      System.out.println("prime");
+      System.out.println("no");
     }
     else
     {
-      System.out.println("composite");
+      System.out.println("yes");
     }
   }
 }
