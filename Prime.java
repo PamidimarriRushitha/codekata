@@ -15,11 +15,11 @@ public class Prime
     }
     if(count>0)
     {
-      System.out.println("no");
+      System.out.println("yes");
     }
     else
     {
-      System.out.println("yes");
+      System.out.println("no");
     }
   }
 }
