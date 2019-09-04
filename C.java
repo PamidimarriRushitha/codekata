@@ -8,7 +8,7 @@ public class C
     int K=sc.nextInt();
     int count=0;
     int arr[]=new int[N];
-    for(int i=0;i<arr.length;i++)
+    for(int i=0; i<arr.length; i++)
     {
       arr[i]=sc.nextInt();
     }
