@@ -4,7 +4,7 @@ public class A {
      Scanner sc=new Scanner(System.in);
       int a=sc.nextInt();
       int s=0;
-      if(a>0)
+      if(a<=100000)
       {
         s=a*(a+1)/2;
     }
