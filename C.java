@@ -19,6 +19,6 @@ public class C
         ++count;
       }
     }
-    System.out.println(count);
+    System.out.print(count);
   }
 }
